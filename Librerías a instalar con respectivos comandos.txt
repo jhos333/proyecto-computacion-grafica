@@ -1,0 +1,13 @@
+pip install pyqt5
+pip install keyboard
+paste winGuiAuto.py inside sitepackages
+pip install pypiwin32
+pip install pyttsx3
+python -m pip install tensorflow 
+pip install scipy
+pip install opencv-python==3.4.2.16
+pip install opencv-contrib-python==3.4.2.16
+pip install qimage2ndarray
+pip install tensorflow==2.0.0-alpha0
+pip install keras 
+pip install pillow      
